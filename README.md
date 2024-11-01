@@ -1,4 +1,4 @@
-- 💻 class faiz { Constructor (details) }
+- 💻 Class faiz { Constructor (details) }
 - 👋 Hi, I’m @FaizAhmad.
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning Web3 - AI/ML.
