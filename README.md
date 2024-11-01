@@ -7,7 +7,7 @@
 - 💬 Email: muhammadfaizahmad03@gmail.com
 - 📮 LinkedIn: https://www.linkedin.com/in/faiz-ahmad-808019336/
 - 👾 Discord: http://discordapp.com/user/1301154209215021106
-- 🔗 Bio Site: ttps://bio.site/Muhammad_Faiz_Ahmad_03
+- 🔗 Bio Site: https://bio.site/Muhammad_Faiz_Ahmad_03
 - 😄 Pronouns: he/his.
 - ⚡ Fun fact: As related to development field, "I Am A Developer".
 
